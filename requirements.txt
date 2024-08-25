@@ -18,10 +18,11 @@ motor
 # Others
 psutil
 js2py
-cfscrape
+cfscrape==2.1.1
 lk21
 lxml
 httpx
+urllib3==1.26.15
 
 # Google Drive
 google-api-core
